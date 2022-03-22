@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Guvyy
 - 👀 I’m interested in 3D printing 
 - 🌱 I’m currently learning marlin
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on twitter , @Guvennoo
 
 <!---
